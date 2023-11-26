@@ -1,0 +1,17 @@
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\bin\Debug\net6.0-windows\CRUDEmpleadosForms.exe
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\bin\Debug\net6.0-windows\CRUDEmpleadosForms.deps.json
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\bin\Debug\net6.0-windows\CRUDEmpleadosForms.runtimeconfig.json
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\bin\Debug\net6.0-windows\CRUDEmpleadosForms.dll
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\bin\Debug\net6.0-windows\CRUDEmpleadosForms.pdb
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.EmpleadoView.resources
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.Principal.resources
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.csproj.GenerateResource.cache
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.AssemblyInfoInputs.cache
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.AssemblyInfo.cs
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.csproj.CoreCompileInputs.cache
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.dll
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\refint\CRUDEmpleadosForms.dll
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.pdb
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\CRUDEmpleadosForms.genruntimeconfig.cache
+C:\Users\ecgue\VisualCode\CRUDEmpleadosForms\CRUDEmpleadosForms\obj\Debug\net6.0-windows\ref\CRUDEmpleadosForms.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDEmpleadosForms", "CRUDEmpleadosForms\CRUDEmpleadosForms.csproj", "{A784B58B-1C87-4405-A889-9BFF4C8839DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A784B58B-1C87-4405-A889-9BFF4C8839DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A784B58B-1C87-4405-A889-9BFF4C8839DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A784B58B-1C87-4405-A889-9BFF4C8839DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A784B58B-1C87-4405-A889-9BFF4C8839DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2482CE1B-11E2-442A-9EC3-61268AB640E0}
+	EndGlobalSection
+EndGlobal
